@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "550260898491",
+    "firebase_url": "https://fir-realtimedatabase-cd49d.firebaseio.com",
+    "project_id": "fir-realtimedatabase-cd49d",
+    "storage_bucket": "fir-realtimedatabase-cd49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550260898491:android:c4e2f44176687140",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessagingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550260898491-tonu87815745i68qr4cro2k08jtgdtk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecloudmessagingdemo",
+            "certificate_hash": "af72d2ce57dbbd12e87a2c06293d04f2fa41a3b7"
+          }
+        },
+        {
+          "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwijEsuXEvz-shCdBWdquSf_RCtW5KiBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550260898491:android:b4eab7655eaf8769",
+        "android_client_info": {
+          "package_name": "com.example.firebaselists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550260898491-av0h34t0efdni9vcqh523h0mq69qjbae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselists",
+            "certificate_hash": "af72d2ce57dbbd12e87a2c06293d04f2fa41a3b7"
+          }
+        },
+        {
+          "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwijEsuXEvz-shCdBWdquSf_RCtW5KiBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550260898491:android:8a2bdafd398ebe4b",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550260898491-ubomv2n10vpjms7lcu83p9o0o5epfisi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaserealtimedatabase",
+            "certificate_hash": "af72d2ce57dbbd12e87a2c06293d04f2fa41a3b7"
+          }
+        },
+        {
+          "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwijEsuXEvz-shCdBWdquSf_RCtW5KiBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550260898491:android:ae313ac328981159",
+        "android_client_info": {
+          "package_name": "com.montini.expensesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550260898491-duler611se05bl9qs9mm5psce0aegrjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.montini.expensesapp",
+            "certificate_hash": "af72d2ce57dbbd12e87a2c06293d04f2fa41a3b7"
+          }
+        },
+        {
+          "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwijEsuXEvz-shCdBWdquSf_RCtW5KiBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550260898491:android:b08963701be0b3ef",
+        "android_client_info": {
+          "package_name": "com.montini.firebasetopics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550260898491-mb1poh2qgdc05iomm71hhka791sk9lid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.montini.firebasetopics",
+            "certificate_hash": "af72d2ce57dbbd12e87a2c06293d04f2fa41a3b7"
+          }
+        },
+        {
+          "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwijEsuXEvz-shCdBWdquSf_RCtW5KiBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550260898491-9je7ggb0lk8g13aq4droq8ig5gndlds9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
